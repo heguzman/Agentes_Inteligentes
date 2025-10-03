@@ -1,0 +1,89 @@
+{
+  "merval": {
+    "index": "MERVAL",
+    "price": "1,172,817.40",
+    "change": "-2.27%",
+    "timestamp": "2025-10-03T19:00:23.623330",
+    "source": "mock_data"
+  },
+  "stocks": [
+    {
+      "symbol": "GGAL",
+      "price": "1,212.71",
+      "change": "+1.02%",
+      "timestamp": "2025-10-03T19:00:23.623330",
+      "source": "mock_data"
+    },
+    {
+      "symbol": "PAMP",
+      "price": "877.39",
+      "change": "+3.19%",
+      "timestamp": "2025-10-03T19:00:23.623330",
+      "source": "mock_data"
+    },
+    {
+      "symbol": "TXAR",
+      "price": "467.82",
+      "change": "+3.79%",
+      "timestamp": "2025-10-03T19:00:23.623330",
+      "source": "mock_data"
+    },
+    {
+      "symbol": "YPFD",
+      "price": "6,488.94",
+      "change": "-4.29%",
+      "timestamp": "2025-10-03T19:00:23.623330",
+      "source": "mock_data"
+    },
+    {
+      "symbol": "MIRG",
+      "price": "311.19",
+      "change": "-2.99%",
+      "timestamp": "2025-10-03T19:00:23.623330",
+      "source": "mock_data"
+    },
+    {
+      "symbol": "BBAR",
+      "price": "938.71",
+      "change": "-1.23%",
+      "timestamp": "2025-10-03T19:00:23.623330",
+      "source": "mock_data"
+    },
+    {
+      "symbol": "CRES",
+      "price": "1,204.42",
+      "change": "-3.69%",
+      "timestamp": "2025-10-03T19:00:23.623330",
+      "source": "mock_data"
+    },
+    {
+      "symbol": "EDN",
+      "price": "756.06",
+      "change": "-3.11%",
+      "timestamp": "2025-10-03T19:00:23.623330",
+      "source": "mock_data"
+    },
+    {
+      "symbol": "HARG",
+      "price": "566.23",
+      "change": "+0.95%",
+      "timestamp": "2025-10-03T19:00:23.623330",
+      "source": "mock_data"
+    },
+    {
+      "symbol": "LOMA",
+      "price": "859.41",
+      "change": "-3.45%",
+      "timestamp": "2025-10-03T19:00:23.623330",
+      "source": "mock_data"
+    }
+  ],
+  "currency": {
+    "pair": "USD/ARS",
+    "price": "1,210.92",
+    "timestamp": "2025-10-03T19:00:23.623330",
+    "source": "mock_data"
+  },
+  "generated_at": "2025-10-03T19:00:23.623330",
+  "data_type": "mock_financial_data"
+}

@@ -74,13 +74,7 @@ pip install matplotlib seaborn reportlab
 
 ## 🎮 Uso del Sistema
 
-### Ejecución Completa (Recomendado)
-```bash
-# Ejecutar desde la raíz del proyecto
-python run_dolar_analysis.py
-```
-
-### Ejecución desde MultiAgent
+### Ejecución Completa
 ```bash
 cd Agentes_Inteligentes/MultiAgent
 python run_dolar.py
@@ -96,19 +90,15 @@ python run_dolar.py
 ### Ejecución Individual de Agentes
 ```python
 # DolarAPI Collector
-cd Agentes_Inteligentes/MultiAgent
 python agents/dolar_api_collector.py
 
 # Dolar Analyst
-cd Agentes_Inteligentes/MultiAgent
 python agents/dolar_analyst_agent.py
 
 # PDF Generator
-cd Agentes_Inteligentes/MultiAgent
 python agents/pdf_generator_agent.py
 
 # Orquestador completo con DolarAPI
-cd Agentes_Inteligentes/MultiAgent
 python orchestrator_dolar.py
 ```
 

@@ -1,0 +1,27 @@
+# Sistema Multiagente de Análisis Financiero Argentina
+# Dependencias principales
+
+# Autogen y OpenAI
+autogen-ext==0.7.5
+openai==2.1.0
+tiktoken==0.11.0
+
+# Variables de entorno y asyncio
+python-dotenv==1.1.1
+nest-asyncio==1.6.0
+
+# Web scraping
+requests==2.32.3
+beautifulsoup4==4.14.2
+
+# Análisis de datos
+pandas==2.2.3
+numpy==2.0.2
+
+# Gráficos y visualización
+matplotlib==3.9.3
+seaborn==0.13.2
+reportlab==4.4.4
+
+# Utilidades
+typing-extensions>=4.12.2
