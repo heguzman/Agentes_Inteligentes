@@ -211,23 +211,6 @@ CHART_CONFIG = {
 - Usa `python run_analysis.py` para modo interactivo
 - Cada agente tiene su propio sistema de logging
 
-## 🔮 Próximas Mejoras
-
-### Funcionalidades Planificadas
-- [ ] **MCP Integration**: Integración con Model Context Protocol
-- [ ] **Más fuentes de datos**: APIs financieras oficiales
-- [ ] **Análisis histórico**: Tendencias a largo plazo
-- [ ] **Alertas automáticas**: Notificaciones de cambios importantes
-- [ ] **Dashboard web**: Interfaz web interactiva
-- [ ] **Exportación PDF**: Presentaciones en formato PDF
-- [ ] **Análisis sectorial**: Análisis por sectores económicos
-
-### Integración MCP
-El sistema está preparado para integrar MCP (Model Context Protocol) para:
-- Acceso a herramientas externas
-- Integración con bases de datos
-- Comunicación entre sistemas
-- Funcionalidades avanzadas de IA
 
 ## 📝 Licencia
 
